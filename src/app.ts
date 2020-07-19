@@ -8,7 +8,6 @@ const app = express();
 
 app.set('port', process.env.PORT || 2121);
 
-
 //middlewares
 app.use(morgan('dev'));
 app.use(cors());
