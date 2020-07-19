@@ -1,0 +1,3 @@
+npm init -y 
+npm i express mongoose morgan bcrypt jsonwebtoken passport passport-jwt
+npm i -D typescript tsc-watch @types/bcrypt @types/cors @types/express @types/jsonwebtoken @types/mongoose @types/passport types/passport-jwt
